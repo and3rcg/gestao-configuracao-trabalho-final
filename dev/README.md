@@ -2,3 +2,5 @@
 `POSTGRES_PWD`: Senha do banco de dados;
 `POSTGRES_DB`: Nome do banco de dados usado;
 `API_KEY`: Chave da API do Cloudflare R2
+
+No commit 736081, foi adicionada a descrição das variáveis de ambiente do projeto
